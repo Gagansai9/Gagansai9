@@ -35,25 +35,11 @@
 
 ---
 
-### 🔧 Tools & Frameworks
-
-<p>
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Express-black?logo=express&style=flat" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Framer_Motion-000000?logo=framer&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Three.js-black?logo=three.js&style=flat" />
-  <img src="https://img.shields.io/badge/-WebXR-orange?style=flat" />
-</p>
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gagansai&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagansai&layout=compact&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gagansai9&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagansai9&layout=compact&theme=dracula&hide_border=false" height="150" />
 </div>
 
 ---
